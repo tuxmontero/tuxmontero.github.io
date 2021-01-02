@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>tuxmontero.github.io/about/</loc>
+    <loc>tuxmontero.github.io/about.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>tuxmontero.github.io/post/</loc>
+    <loc>tuxmontero.github.io/post.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>tuxmontero.github.io/designs/</loc>
+    <loc>tuxmontero.github.io/designs.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -27,7 +27,7 @@
   </url>
   
   <url>
-    <loc>tuxmontero.github.io/techs/</loc>
+    <loc>tuxmontero.github.io/techs.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
