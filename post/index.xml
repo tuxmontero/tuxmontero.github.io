@@ -5,6 +5,7 @@
     <link>/post/</link>
     <description>Recent content in Blog on Jonathan Montero</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-us</language><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-us</language>
+    <lastBuildDate>Sat, 02 Jan 2021 22:08:32 +0100</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
