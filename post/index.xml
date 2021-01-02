@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Jonathan Montero</title>
-    <link>https://tuxmontero.github.io/post/</link>
+    <link>tuxmontero.github.io/post/</link>
     <description>Recent content in Blog on Jonathan Montero</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-es</language><atom:link href="https://tuxmontero.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-es</language><atom:link href="tuxmontero.github.io/post/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
