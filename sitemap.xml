@@ -3,112 +3,112 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/post/getting-started/</loc>
+    <loc>/post/getting-started/</loc>
     <lastmod>2019-05-03T09:37:55+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>/</loc>
     <lastmod>2019-05-03T09:37:55+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-05-03T09:37:55+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/portfolio-definition/</loc>
+    <loc>/post/portfolio-definition/</loc>
     <lastmod>2019-05-02T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/techs/d3/</loc>
+    <loc>/techs/d3/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/designs/</loc>
+    <loc>/designs/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/techs/javascript/</loc>
+    <loc>/techs/javascript/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/designs/photoshop/</loc>
+    <loc>/designs/photoshop/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/portfolio/</loc>
+    <loc>/portfolio/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/portfolio/sample-project/</loc>
+    <loc>/portfolio/sample-project/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/techs/</loc>
+    <loc>/techs/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/archetypes/</loc>
+    <loc>/post/archetypes/</loc>
     <lastmod>2019-05-02T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/shortcodes/</loc>
+    <loc>/post/shortcodes/</loc>
     <lastmod>2019-04-29T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/config-file/</loc>
+    <loc>/post/config-file/</loc>
     <lastmod>2019-04-20T16:18:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/define-specific-og-image/</loc>
+    <loc>/post/define-specific-og-image/</loc>
     <lastmod>2019-04-20T11:14:59+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
