@@ -30,7 +30,7 @@
 <meta itemprop="description" content="A brief guide for testing purposes">
 <meta itemprop="datePublished" content="2021-01-27T09:35:35+01:00" />
 <meta itemprop="dateModified" content="2021-01-27T09:35:35+01:00" />
-<meta itemprop="wordCount" content="173">
+<meta itemprop="wordCount" content="170">
 
 
 
@@ -46,7 +46,7 @@
   <div class="intro">
     <div class="logo-container">
       <a href="../../">
-        <img src='../../images/rsz_jmr.jpg' alt="Profile ABOUT" class="rounded-logo">
+        <img src='../../images/rsz_jmr.jpg' alt="Profile Sample project" class="rounded-logo">
       </a>
     </div>
     <h2>Jonathan Montero 🐧</h2>
@@ -191,14 +191,14 @@
 </ol>
 <h2 id="step-1">Step 1</h2>
 <p>To update the repositories we must run this command, remember that using <code>sudo</code> will require your password.</p>
-<p><code>$ sudo apt update &amp;&amp; sudo apt upgrade -y</code></p>
-<p>Note: the <code>-y</code> option is for applying the updates automatically without asking.</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">sudo apt update <span class="o">&amp;&amp;</span> sudo apt upgrade -y
+</code></pre></div><p>Note: the <code>-y</code> option is for applying the updates automatically without asking.</p>
 <h2 id="step-2">Step 2</h2>
-<p><code>$ sudo apt install -y apache mysql-server php libapache2-mod-php php-mysql</code></p>
-<h2 id="step-3">Step 3</h2>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">sudo apt install -y apache mysql-server php libapache2-mod-php php-mysql
+</code></pre></div><h2 id="step-3">Step 3</h2>
 <p>Let&rsquo;s configure the database first. We&rsquo;re going to use a tool that comes with the mysql-server</p>
-<p><code>$ sudo mysql-secure-installation</code></p>
-<p>Note: You&rsquo;ll be asked for some questions here regarding passwords for the DB root user and the removal of some default DBs. After you&rsquo;re done setting up the password, we&rsquo;ll go on with the next step.</p>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">sudo mysql-secure-installation
+</code></pre></div><p>Note: You&rsquo;ll be asked for some questions here regarding passwords for the DB root user and the removal of some default DBs. After you&rsquo;re done setting up the password, we&rsquo;ll go on with the next step.</p>
 
 
     </main>
